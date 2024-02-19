@@ -3,7 +3,7 @@
 ### My birthday: March 15, 2008 (16 years old)
 
 ### Coding
-<a href="https://haxe.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="5%" style="margin-right: 10px;"/> </a>
+<a href="https://haxe.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="5%" style="margin-right: 100px;"/> </a>
 <a href="https://html.spec.whatwg.org/"> <img src="https://i.imgur.com/94n31ta.png" width="5%" style="margin-right: 10px;"/> <a>
 <a href="https://drafts.csswg.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" width="5%" style="margin-right: 10px;"/> </a>
 
