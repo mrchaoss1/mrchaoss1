@@ -1,28 +1,49 @@
 # Hello, i'm Mr. Chaos or just Eugene 👋
 
-### My birthday: March 15, 2008 (16 years old)
+
 
 ### Coding
-<a href="https://haxe.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="5%" style="margin-right: 100px;"/> </a>
+
+<a/>ㅤ<a>
+<a href="https://haxe.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="5%"/> </a>
+<a/>ㅤ<a>
 <a href="https://html.spec.whatwg.org/"> <img src="https://i.imgur.com/94n31ta.png" width="5%" style="margin-right: 10px;"/> <a>
+<a/>ㅤ<a>
 <a href="https://drafts.csswg.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" width="5%" style="margin-right: 10px;"/> </a>
 
 ### My languages
+
+<a/>ㅤ<a>
 <a href="https://en.wikipedia.org/wiki/Russian_language"> <img src="https://i.imgur.com/ukbpkb1.png" width="5%" style="margin-right: 10px;"/> </a>
+<a/>ㅤ<a>
 <a href="https://en.wikipedia.org/wiki/English_language"> <img src="https://i.imgur.com/wk7f8Ic.png" width="5%" style="margin-right: 10px;"/> </a>
 
 ### Games and social profiles (click to see)
-<a href="https://gamebanana.com/members/2017530"> <img src="https://images.gamebanana.com/static/img/favicon/256x256.png" width="5%" style="margin-right: 10px;"/> </a>
+
+<a/>ㅤ<a>
+<a href="https://gamebanana.com/members/3160716"> <img src="https://images.gamebanana.com/static/img/favicon/256x256.png" width="5%" style="margin-right: 10px;"/> </a>
+<a/>ㅤ<a>
 <a href="https://youtube.com/@TheLeerName"> <img src="https://i.imgur.com/GUaL8pM.png" width="5%" style="margin-right: 10px;"/> </a>
-<a href="https://twitch.tv/TheLeerName"> <img src="https://avatars.githubusercontent.com/u/1795021?s=280&v=4" width="5%" style="margin-right: 10px;"/> </a>
+<a/>ㅤ<a>
 <a href="https://steamcommunity.com/profiles/76561199218536719/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/640px-Steam_icon_logo.svg.png" width="5%" style="margin-right: 10px;"/> </a>
-<a href="https://open.spotify.com/user/uo8tpun8vmimkt1y4ep3ndi16"> <img src="https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo" width="5%" style="margin-right: 10px;"/> </a>
-<a href="https://www.reddit.com/user/TheLeerName"> <img src="https://i.imgur.com/da4nIOu.png" width="5%" style="margin-right: 10px;"/> </a>
-- **Discord:** `theleername`
-- **Minecraft nickname -** `TheLeerName`
-- **Genshin Impact UID (Europe) -** `743241413`
-- **Honkai: Star Rail UID (Europe) -** `700793872`
+<a/>ㅤ<a>
+<a href="https://open.spotify.com/user/312ethrxjgpdjizeescj6ktxu634?si=e7bbce3bc10141cd"> <img src="https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo" width="5%" style="margin-right: 10px;"/> </a>
+<a/>ㅤ<a>
+<a href="https://twitter.com/Mr_Chaos3"> <img src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" width="5%" style="margin-right: 10px;"/> </a>
 
-<img src="https://i.imgur.com/Su4uFdY.gif" width="50%" style="margin-right: 10px;"/>
+### Contact Info
 
-*im lazy to search a source of it on my pc lol*
+- **Discord:** `mrchaos1`
+- **Roblox Nickname -** `Purple (BROZZ1224)`
+- **Minecraft Nickname -** `Mr. Chaos`
+- **DF CONNECTED Nickname -** `MrChaos0`
+
+<a/>ㅤ<a>
+<details>
+  <summary>Click to Reveal Spoiler</summary>
+  
+  <!-- Hidden image -->
+  <img src="https://media.discordapp.net/attachments/1151789888841195586/1184333146636943410/SPOILER_image0.gif?ex=65dea5b2&is=65cc30b2&hm=b94a8c57db38ebfaf0d62b4036926e4679e7e25aa98f1e1c1f5c8e5903b89d5b&" alt="Spoiler Image" style="display: none;" width="35%">
+
+</details>
+
