@@ -42,8 +42,7 @@
 <details>
   <summary>Click to Reveal Spoiler</summary>
   
-  <!-- Hidden image -->
-<div class="tenor-gif-embed" data-postid="15300090095318645713" data-share-method="host" data-aspect-ratio="1.81356" data-width="100%"><a href="https://tenor.com/view/whistle-gif-15300090095318645713">Whistle GIF</a>from <a href="https://tenor.com/search/whistle-gifs">Whistle GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  **meow.**
 
 </details>
 
