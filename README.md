@@ -43,7 +43,7 @@
   <summary>Click to Reveal Spoiler</summary>
   
   <!-- Hidden image -->
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATAAAACmCAMAAABqbSMrAAAAvVBMVEUNACEOACIJAB4OACQAABsEAB0KACAAAB4GAB4MACIAABUHACBVPGkmEzhZPWclEDkAABgKAChELlUAACQaAClYQGdUO2xLN145Jk4sGj5dQXArE0RHMFQPACdGLlssGkknCES1pMV5X45LMWSEcZuYg6VjSWs2H05pTX4vEUhuWIShjrBxUXKSfKZ6YIaIcpc+GlmEa5qQe6qfirBwUnwYDCpDLVtSM2IiADYxGlROLmVXPFtONE5AJlgyHEQZRVTNAAABQ0lEQVR4nO3Uy3ISYRAGUOb2M2QSuZlAQEYZJCAERyAhGjXv/1ihyo0LXYPWOauu7s1XvfgaDQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgf9RKkiSKkujUOf4VWVy0klYRHR8W8hAaIc1DnOXZccriU4c7QxeXV2/anW6v3++kb69vrprdwbB5Oxq/615MyvchzTpFK2pMTh3zbMQfptW0nH2c35WjRbV8/rRcravR/ebzvFzV9Zfh5XDZa5065BkJjzfb3X6znu52m221r+qH+X6zrO6Pu+16Wo/qejtd9UMj0nC/hMd2e7y4my16h+HT12r/8O2weC6/H8rDj8HTdfky+Hm7GPvWb0KI49DM0zTLi/RlNimSuIiLLEubad7M4rzINf/f5Wn48+EVPfAVcb+HqhkAAAAASUVORK5CYII=" alt="Spoiler Image" style="display: none;" width="35%">
+<div class="tenor-gif-embed" data-postid="15300090095318645713" data-share-method="host" data-aspect-ratio="1.81356" data-width="100%"><a href="https://tenor.com/view/whistle-gif-15300090095318645713">Whistle GIF</a>from <a href="https://tenor.com/search/whistle-gifs">Whistle GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </details>
 
