@@ -34,9 +34,6 @@
 ### Contact Info
 
 - **Discord:** `mrchaos1`
-- **Roblox Nickname -** `Purple (BROZZ1224)`
-- **Minecraft Nickname -** `Mr. Chaos`
-- **DF CONNECTED Nickname -** `MrChaos0`
 
 <a/>ㅤ<a>
 <details>
