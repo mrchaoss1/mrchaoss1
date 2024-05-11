@@ -33,7 +33,7 @@
 
 ### Contact Info
 
-- **Discord:** `mrchaos1`
+- **Discord:** `mr_chaoss`
 
 <a/>ㅤ<a>
 <details>
