@@ -23,7 +23,7 @@
 <a/>ㅤ<a>
 <a href="https://gamebanana.com/members/3160716"> <img src="https://images.gamebanana.com/static/img/favicon/256x256.png" width="5%" style="margin-right: 10px;"/> </a>
 <a/>ㅤ<a>
-<a href="https://youtube.com/@TheLeerName"> <img src="https://i.imgur.com/GUaL8pM.png" width="5%" style="margin-right: 10px;"/> </a>
+<a href="https://www.youtube.com/channel/UCTNBIOrzz1HuH9fDQhFFa-A"> <img src="https://i.imgur.com/GUaL8pM.png" width="5%" style="margin-right: 10px;"/> </a>
 <a/>ㅤ<a>
 <a href="https://steamcommunity.com/profiles/76561199218536719/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/640px-Steam_icon_logo.svg.png" width="5%" style="margin-right: 10px;"/> </a>
 <a/>ㅤ<a>
