@@ -14,7 +14,7 @@
 ### My languages
 
 <a/>ㅤ<a>
-<a href="https://en.wikipedia.org/wiki/Ukrainian_language"> <img src="https://i.imgur.com/NRF0o0i.png" width="5%" style="margin-right: 10px;"/> </a>
+<a href="https://en.wikipedia.org/wiki/Ukrainian_language"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/ukraine-flag-round-circle-icon.png" width="5%" style="margin-right: 10px;"/> </a>
 <a/>ㅤ<a>
 <a href="https://en.wikipedia.org/wiki/English_language"> <img src="https://i.imgur.com/wk7f8Ic.png" width="5%" style="margin-right: 10px;"/> </a>
 
