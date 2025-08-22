@@ -34,7 +34,7 @@
   <strong>Ukrainian</strong> (Native)
   &nbsp;&nbsp;&nbsp;
   <img src="https://i.imgur.com/wk7f8Ic.png" width="30" height="30" alt="English"/> 
-  <strong>English</strong> (Fluent)
+  <strong>English</strong> (B1)
 </p>
 
 ---
