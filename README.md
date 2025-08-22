@@ -1,47 +1,103 @@
-# Hello, i'm Mr. Chaos or just Eugene 👋
+# 👋 Hello, I'm Eugene (Mr. Chaos)
 
+**Haxe developer, creating Friday Night Funkin' Mods**
 
+---
 
-### Coding
+## 🛠️ Tech Stack
 
-<a/>ㅤ<a>
-<a href="https://haxe.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="5%"/> </a>
-<a/>ㅤ<a>
-<a href="https://html.spec.whatwg.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="5%" style="margin-right: 10px;"/> <a>
-<a/>ㅤ<a>
-<a href="https://drafts.csswg.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" width="5%" style="margin-right: 10px;"/> </a>
-<a/>ㅤ<a>
-<a href="https://ru.wikipedia.org/wiki/JavaScript"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png" width="5%" style="margin-right: 10px;"/> </a>
-### My languages
+### Languages & Frameworks
+<p align="left">
+  <a href="https://haxe.org" title="Haxe">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="40" height="40" alt="Haxe"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://html.spec.whatwg.org/" title="HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://drafts.csswg.org/" title="CSS3">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png" width="40" height="40" alt="CSS3"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" alt="JavaScript"/>
+  </a>
+</p>
 
-<a/>ㅤ<a>
-<a href="https://en.wikipedia.org/wiki/Ukrainian_language"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/ukraine-flag-round-circle-icon.png" width="5%" style="margin-right: 10px;"/> </a>
-<a/>ㅤ<a>
-<a href="https://en.wikipedia.org/wiki/English_language"> <img src="https://i.imgur.com/wk7f8Ic.png" width="5%" style="margin-right: 10px;"/> </a>
+---
 
+## 🌍 Languages
 
-### Games and social profiles (click to see)
+<p align="left">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/ukraine-flag-round-circle-icon.png" width="30" height="30" alt="Ukrainian"/> 
+  <strong>Ukrainian</strong> (Native)
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/wk7f8Ic.png" width="30" height="30" alt="English"/> 
+  <strong>English</strong> (Fluent)
+</p>
 
-<a/>ㅤ<a>
-<a href="https://gamebanana.com/members/3160716"> <img src="https://images.gamebanana.com/static/img/favicon/256x256.png" width="5%" style="margin-right: 10px;"/> </a>
-<a/>ㅤ<a>
-<a href="https://www.youtube.com/channel/UCTNBIOrzz1HuH9fDQhFFa-A"> <img src="https://i.imgur.com/GUaL8pM.png" width="5%" style="margin-right: 10px;"/> </a>
-<a/>ㅤ<a>
-<a href="https://steamcommunity.com/profiles/76561199218536719/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/640px-Steam_icon_logo.svg.png" width="5%" style="margin-right: 10px;"/> </a>
-<a/>ㅤ<a>
-<a href="https://open.spotify.com/user/312ethrxjgpdjizeescj6ktxu634?si=e7bbce3bc10141cd"> <img src="https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo" width="5%" style="margin-right: 10px;"/> </a>
-<a/>ㅤ<a>
-<a href="https://twitter.com/Mr_Chaos3"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png" width="5%" style="margin-right: 10px;"/> </a>
+---
 
-### Contact Info
+## 🎮 Find Me Around the Internet
+
+<p align="left">
+  <a href="https://gamebanana.com/members/3160716" title="GameBanana Profile">
+    <img src="https://images.gamebanana.com/static/img/favicon/256x256.png" width="40" height="40" alt="GameBanana"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCTNBIOrzz1HuH9fDQhFFa-A" title="YouTube Channel">
+    <img src="https://i.imgur.com/GUaL8pM.png" width="40" height="40" alt="YouTube"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://steamcommunity.com/profiles/76561199218536719/" title="Steam Profile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/640px-Steam_icon_logo.svg.png" width="40" height="40" alt="Steam"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/312ethrxjgpdjizeescj6ktxu634?si=e7bbce3bc10141cd" title="Spotify Profile">
+    <img src="https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo" width="40" height="40" alt="Spotify"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/Mr_Chaos3" title="Twitter Profile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png" width="40" height="40" alt="Twitter"/>
+  </a>
+</p>
+
+---
+
+## 📫 Let's Connect
 
 - **Discord:** `mr_chaoss`
+- **Email:** `mrchaoss111@gmail.com`
 
-<a/>ㅤ<a>
+---
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrchaoss1&layout=compact&theme=radical)
+
+---
+
+## 🎯 Current Projects
+
+### 🔧 API Libraries
+- **Telegram API** *(In Development)* - Building a comprehensive Haxe library for Telegram bot development
+- **Discord API** *(Planned)* - Future API wrapper for Discord integration in Haxe
+
+### 🎵 Friday Night Funkin' Mods
+- **[TH2L](https://gamebanana.com/mods/557282)** - Custom FNF modification
+- **[Funkin.Avi](https://youtu.be/20Tx0YhJda0?t=4156)** - Horror-themed FNF experience with Mouse
+- **[Substance of Happiness](https://gamebanana.com/mods/523857)** - Psychological FNF mod with Mouse
+- **[Restoration of Sonic Exe (Rose)](https://fridaynightfunking.fandom.com/wiki/Restoration_Of_Sonic.EXE)** - Sonic.exe FNF restoration project
+
+---
+
 <details>
-  <summary>Click to Reveal Spoiler</summary>
-  
-  **meow.**
-
+  <summary>🐱 Click for a surprise!</summary>
+  <br>
+  <p align="center">
+    <strong>meow.</strong>
+    <br><br>
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Cat gif"/>
+  </p>
 </details>
-
