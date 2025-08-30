@@ -85,7 +85,7 @@
 - **Discord API** *(Planned)* - Future API wrapper for Discord integration in Haxe
 
 ### 🎵 Friday Night Funkin' Mods
-- **[TH2L](https://gamebanana.com/mods/557282)** - Custom FNF modification
+- **[TH2L](https://gamebanana.com/mods/557282)** - Fighting Mod with FNF
 - **[Funkin.Avi](https://youtu.be/20Tx0YhJda0?t=4156)** - Horror-themed FNF experience with Mouse
 - **[Substance of Happiness](https://gamebanana.com/mods/523857)** - Psychological FNF mod with Mouse
 - **[Restoration of Sonic Exe (Rose)](https://fridaynightfunking.fandom.com/wiki/Restoration_Of_Sonic.EXE)** - Sonic.exe FNF restoration project
