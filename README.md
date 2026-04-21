@@ -86,7 +86,6 @@
 
 ### 🎵 Friday Night Funkin' Mods (GameDev)
 - **[TH2L](https://gamebanana.com/mods/557282)** - Fighting Mod with FNF
-- 
 ---
 
 <details>
