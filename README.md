@@ -7,9 +7,10 @@
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
+
 <p align="left">
   <a href="https://haxe.org" title="Haxe">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="40" height="40" alt="Haxe"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" width="40" height="40" alt="Haxe"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://html.spec.whatwg.org/" title="HTML5">
@@ -17,11 +18,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://drafts.csswg.org/" title="CSS3">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png" width="40" height="40" alt="CSS3"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" alt="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   </a>
 </p>
 
@@ -30,10 +31,10 @@
 ## 🌍 Languages
 
 <p align="left">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/ukraine-flag-round-circle-icon.png" width="30" height="30" alt="Ukrainian"/> 
+  <img src="https://cdn.jsdelivr.net/gh/HatScripts/circle-flags/flags/ua.svg" width="30" height="30" alt="Ukrainian"/>
   <strong>Ukrainian</strong> (Native)
   &nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/wk7f8Ic.png" width="30" height="30" alt="English"/> 
+  <img src="https://cdn.jsdelivr.net/gh/HatScripts/circle-flags/flags/gb.svg" width="30" height="30" alt="English"/>
   <strong>English</strong> (C1)
 </p>
 
@@ -47,11 +48,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCTNBIOrzz1HuH9fDQhFFa-A" title="YouTube Channel">
-    <img src="https://i.imgur.com/GUaL8pM.png" width="40" height="40" alt="YouTube"/>
+    <img src="https://cdn.simpleicons.org/youtube" width="40" height="40" alt="YouTube"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://steamcommunity.com/profiles/76561199218536719/" title="Steam Profile">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/640px-Steam_icon_logo.svg.png" width="40" height="40" alt="Steam"/>
+    <img src="https://www.google.com/s2/favicons?sz=128&domain=store.steampowered.com" width="40" height="40" alt="Steam"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://open.spotify.com/user/312ethrxjgpdjizeescj6ktxu634?si=e7bbce3bc10141cd" title="Spotify Profile">
@@ -59,7 +60,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/Mr_Chaos3" title="Twitter Profile">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png" width="40" height="40" alt="Twitter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
   </a>
 </p>
 
@@ -81,11 +82,14 @@
 ## 🎯 Current Projects
 
 ### 🔧 API Libraries
+
 - [**Telegram API**](https://lib.haxe.org/p/hx_telegram/) - Building a comprehensive Haxe library for Telegram bot development
 - **Discord API** *(Planned)* - Future API wrapper for Discord integration in Haxe
 
 ### 🎵 Friday Night Funkin' Mods (GameDev)
+
 - **[TH2L](https://gamebanana.com/mods/557282)** - Fighting Mod with FNF
+
 ---
 
 <details>
