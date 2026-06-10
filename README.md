@@ -84,7 +84,7 @@
 ### 🔧 API Libraries
 
 - [**Telegram API**](https://lib.haxe.org/p/hx_telegram/) - Building a comprehensive Haxe library for Telegram bot development
-- **Discord API** *(Planned)* - Future API wrapper for Discord integration in Haxe
+- [**Discord API**](https://lib.haxe.org/p/hxdiscord_api) - API wrapper for Discord integration in Haxe
 
 ### 🎵 Friday Night Funkin' Mods (GameDev)
 
