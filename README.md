@@ -75,7 +75,7 @@
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrchaoss1&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=mrchaoss1&layout=compact&langs_count=2&disable_animations=true&theme=dark)
 
 ---
 
